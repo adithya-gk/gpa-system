@@ -42,5 +42,46 @@ Tools Used: MySQL , JWT Authentication
 
 # 📷 Screenshots 
 <p align="center">
-  <img src="" width="350" title="hover text">
+  <img src="docs/REGISTRATION.png" width="350">
+Registration Window 
+</p>
+
+<p align="center">
+  <img src="docs/IMAGE SELECTION.png" width="350">
+Image Selection 
+</p>
+
+<p align="center">
+  <img src="docs/POINT SELECTION.png" width="350">
+Selecting Points 
+</p>
+
+<p align="center">
+  <img src="docs/RECOVERY .png" width="350">
+Recovery Phrase 
+</p>
+
+<p align="center">
+  <img src="docs/LOGIN SUCCESS.PNG" width="350">
+Successful Login
+</p>
+
+<p align="center">
+  <img src="docs/FAILED LOGIN.PNG" width="350">
+Failed Login 
+</p>
+
+<p align="center">
+  <img src="docs/TIMEOUT.PNG" width="350">
+Login Timeout  
+</p>
+
+<p align="center">
+  <img src="docs/PERMA-BAN.PNG" width="350">
+User Permanently Ban 
+</p>
+
+<p align="center">
+  <img src="docs/RESET.PNG" width="350">
+ Forgot Password
 </p>
