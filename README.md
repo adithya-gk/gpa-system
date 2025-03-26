@@ -1,1 +1,1 @@
-# gpa-system
+# Graphical Password Authentication System
