@@ -41,3 +41,6 @@ Tools Used: MySQL , JWT Authentication
  * Failed Attempts Log: Tracks login attempts to enforce cooldown and account blocking.
 
 # 📷 Screenshots 
+<p align="center">
+  <img src="" width="350" title="hover text">
+</p>
